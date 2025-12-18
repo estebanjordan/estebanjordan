@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=esteban-jordan&label=Visitas&color=8B0000&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=estebanjordan&label=Visitas&color=8B0000&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -109,17 +109,17 @@ Ingeniero Mecatrónico egresado de la **Corporación Universitaria del Huila (CO
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/esteban-jordan">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=esteban-jordan&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-    <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esteban-jordan&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+  <a href="https://github.com/estebanjordan">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=estebanjordan&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+    <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estebanjordan&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
   </a>
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=esteban-jordan&theme=github-dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=estebanjordan&theme=github-dark&hide_border=true" />
 </p>
 
 <div align="center">
 
-![Actividad](https://github-readme-activity-graph.vercel.app/graph?username=esteban-jordan&theme=react-dark&bg_color=20232a&hide_border=true&area=true)
+![Actividad](https://github-readme-activity-graph.vercel.app/graph?username=estebanjordan&theme=react-dark&bg_color=20232a&hide_border=true&area=true)
 
 </div>
 
@@ -128,13 +128,13 @@ Ingeniero Mecatrónico egresado de la **Corporación Universitaria del Huila (CO
 ## 🔗 Conecta Conmigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/esteban-jordan" target="_blank">
+  <a href="https://www.linkedin.com/in/estebanjordan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:jordanlosadajulio@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/esteban-jordan" target="_blank">
+  <a href="https://github.com/estebanjordan" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
@@ -157,7 +157,7 @@ Este repositorio contiene mi portafolio profesional desarrollado en **React.js**
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/esteban-jordan/portafolio.git
+git clone https://github.com/estebanjordan/portafolio.git
 
 # Navegar al directorio
 cd portafolio
