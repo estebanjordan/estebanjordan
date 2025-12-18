@@ -1,3 +1,7 @@
+<img width="1214" height="719" alt="fondoterminator" src="https://github.com/user-attachments/assets/febbea68-6ec2-4ece-8704-1330eee8c446" />
+
+
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:8B0000,100:0d1117&height=200&section=header&text=Esteban%20Jordan&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Ingeniero%20Mecatrónico&descAlignY=55&descSize=20&stroke=DC143C&strokeWidth=2"/>
 
 <p align="center">
