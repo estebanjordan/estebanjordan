@@ -3,6 +3,8 @@
 
 <img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/bd320152-9df6-4278-95e3-017606bf8c29" />
 
+<img width="1672" height="941" alt="c4565f4f-7bcf-4b21-864b-8839fd4a6ebc" src="https://github.com/user-attachments/assets/4a138e1e-e0a0-432f-b2b4-95c46ce5b784" />
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:8B0000,100:0d1117&height=200&section=header&text=Esteban%20Jordan&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Ingeniero%20Mecatrónico&descAlignY=55&descSize=20&stroke=DC143C&strokeWidth=2"/>
 
