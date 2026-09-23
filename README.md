@@ -1,4 +1,5 @@
-<img width="1214" height="719" alt="fondoterminator" src="https://github.com/user-attachments/assets/febbea68-6ec2-4ece-8704-1330eee8c446" />
+<!-- <img width="1214" height="719" alt="fondoterminator" src="https://github.com/user-attachments/assets/febbea68-6ec2-4ece-8704-1330eee8c446" /> -->
+<img width="1214" height="719" alt="image" src="https://github.com/user-attachments/assets/5906cded-d4ea-4898-b617-2ddc592913d0" />
 
 
 
